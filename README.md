@@ -16,7 +16,7 @@ Interested in **FinTech** and **E-commerce**. Comfortable with reproducible work
 
 ---
 
-## Featured Projects (with results)
+## Featured Projects 
 **Age Estimation — ResNet50 (Computer Vision)**  
 MAE test ~7.065 vs baseline ~9.047 (≈22% improvement).  
 Repo: https://github.com/CarlosAldanaCh/age-estimation-resnet50
