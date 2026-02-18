@@ -11,7 +11,19 @@ Interested in **FinTech** and **E-commerce**. Comfortable with reproducible work
 
 ---
 
-## Core Skills
+## Core Skills 
+
+![Python](https://img.shields.io/badge/Python-000000?logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-000000?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-000000?logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-000000?logo=keras&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)
+
+
 **Python** (pandas, NumPy, scikit-learn) • **Machine Learning** (regression/classification, MAE/RMSE/sMAPE) • **Deep Learning** (TensorFlow/Keras, transfer learning) • **SQL** (basic — improving) • Git/GitHub • Linux/WSL
 
 ---
