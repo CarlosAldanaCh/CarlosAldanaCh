@@ -6,7 +6,7 @@
 ---
 
 ## About
-I’m a Junior Data Scientist focused on end-to-end projects: data cleaning, EDA, feature engineering, modeling, and clear reporting for business decisions.  
+I’m a Data Scientist focused on end-to-end projects: data cleaning, EDA, feature engineering, modeling, and clear reporting for business decisions.  
 Interested in **FinTech** and **E-commerce**. Comfortable with reproducible workflows (Git/GitHub) and production-minded evaluation (quality vs. latency trade-offs).
 
 ---
