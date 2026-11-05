@@ -1,6 +1,6 @@
 # Carlos Aldana Chico — Data Analyst & Data Scientist
 
-Based in León, Guanajuato, Mexico. Available for remote freelance analytics projects and junior Data Analyst / Data Scientist opportunities.
+Available for remote freelance analytics projects and junior Data Analyst / Data Scientist opportunities.
 
 [View my portfolio](https://carlosaldanach.github.io/) · [Email me](mailto:carlosaldanaoficial@gmail.com?subject=Data%20project%20inquiry) · [LinkedIn](https://www.linkedin.com/in/carlosaldanach/) · [GitHub](https://github.com/CarlosAldanaCh)
 
