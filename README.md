@@ -23,6 +23,12 @@ I’m interested in FinTech and e-commerce, including the trade-offs between mod
 
 ## Featured Projects
 
+### NovaMart Retail — Sales Analytics with Power BI
+
+Six-page Power BI retail analytics report for NovaMart, a fictional retailer using synthetic data. Prepared data with Power Query, built DAX measures and a data model, and documented verified KPI definitions. Recovered 609 missing prices and 1,213 missing item names while preserving all 12,575 transactions.
+
+[Case study and documentation](https://github.com/CarlosAldanaCh/novamart-retail-powerbi) · [Report PDF](https://github.com/CarlosAldanaCh/novamart-retail-powerbi/blob/main/reports/novamart-retail.pdf)
+
 ### Age Estimation — ResNet50
 
 Compared a frozen-backbone baseline with fine-tuning for face age estimation. Reported test MAE was 7.065 years versus 9.047 years for the baseline. The repository documents data splits and the training pipeline.
